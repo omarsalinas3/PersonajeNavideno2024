@@ -10,7 +10,7 @@ El personaje tendra una pequeña bocina que reproducira pequeños fragmentos de 
 |-|-|-|-|
 |ESP32|<img src="https://github.com/user-attachments/assets/c80c9498-3c2a-4644-95d2-f0fc53c8e53c" width="60"/>|1 pz|$120|
 |Modulo de audio |<img src="https://github.com/user-attachments/assets/b72fc17c-5c2f-4945-8050-657cbfcb5511" width="60"/>|20 mts|$105|
-|Leds|<img src="https://github.com/user-attachments/assets/75d2594e-f95d-4016-8b57-7bae495cff95"width="60"/>|100 pz|$87|
+|Leds|<img src="https://github.com/user-attachments/assets/75d2594e-f95d-4016-8b57-7bae495cff95" width="60"/>|100 pz|$87|
 |Sensor de proximidad|<img src="https://github.com/user-attachments/assets/8cdc5e8d-9e89-4ba2-92fc-3207b6ddaae1" width="60"/>|1 pz|$50|
 |Tarjeta microSD|<img src="https://github.com/user-attachments/assets/b769b1d2-9860-4a24-83e2-a57714e8559f" width="60"/>|1 pz|$60|
 |Servomotores|<img src="https://github.com/user-attachments/assets/1269bd8f-185b-435d-845e-89382301a022" width="60"/>|1 pz|$50|
