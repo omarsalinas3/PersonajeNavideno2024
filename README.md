@@ -10,14 +10,14 @@ El personaje tendra una pequeña bocina que reproducira pequeños fragmentos de 
 |-|-|-|-|
 |ESP32|<img src="https://github.com/user-attachments/assets/c80c9498-3c2a-4644-95d2-f0fc53c8e53c" width="60"/>|1 pz|$120|
 |Modulo de audio |<img src="https://github.com/user-attachments/assets/b72fc17c-5c2f-4945-8050-657cbfcb5511" width="60"/>|20 mts|$105|
-|Leds|<img src="https://github.com/user-attachments/assets/75d2594e-f95d-4016-8b57-7bae495cff95"/>|100 pz|$87|
+|Leds|<img src="https://github.com/user-attachments/assets/75d2594e-f95d-4016-8b57-7bae495cff95"width="60"/>|100 pz|$87|
 |Sensor de proximidad|<img src="https://github.com/user-attachments/assets/8cdc5e8d-9e89-4ba2-92fc-3207b6ddaae1" width="60"/>|1 pz|$50|
 |Tarjeta microSD|<img src="https://github.com/user-attachments/assets/b769b1d2-9860-4a24-83e2-a57714e8559f" width="60"/>|1 pz|$60|
 |Servomotores|<img src="https://github.com/user-attachments/assets/1269bd8f-185b-435d-845e-89382301a022" width="60"/>|1 pz|$50|
 |Resistencias|<img src="https://github.com/user-attachments/assets/35025466-4ac9-4419-b1d6-4b6c5d26a612" width="60"/>|1 paq|$80|
 |Fuente de alimentación (5V 2A)|<img src="https://github.com/user-attachments/assets/7c3b3177-01a4-4b37-a79c-4d3b6e3448cb" width="60"/>|1 pz|$79|
 |Transistor |<img src="https://github.com/user-attachments/assets/ce1942e3-e228-4d66-accc-3a1c75bc76e9" width="60"/>|1 pz|$76|
-
+|Peluche |<img src="https://github.com/user-attachments/assets/13140158-41a4-4844-82aa-aad55fe46bd5" width="60"/>|1 pz|$250|
 ## Software a utilizar
 Thonny, Arduino
 ## Dibujo del personaje 
