@@ -1,26 +1,22 @@
 # Personaje2024
 ## Nombre del personaje
-
+Naviclaus
 ## Creador
-Cruz Méndez Juan Gustavo Ángel
+Salinas Salinas Omar
 ## Explicación de funcionamiento
-El árbol navideño tendrá la funcionalidad de encender luces led, reproducir villancicos, ademas de retirarse y colocarse un gorrito navideño cuando una 
-persona se acerque.
+El personaje tendra una pequeña bocina que reproducira pequeños fragmentos de voz de santa claus, además de que en la parte del gorro de navidad tendra un led que se iluminara, ademas de que el muñeco podra  mover las manos cada que reproduzca un audio de voz. 
 ## Materiales a utilizar
 | Material | Imagen | Cantidad | Precio |
 |-|-|-|-|
 |ESP32|<img src="https://github.com/user-attachments/assets/c80c9498-3c2a-4644-95d2-f0fc53c8e53c" width="60"/>|1 pz|$120|
-|Escarcha|<img src="https://github.com/user-attachments/assets/dd11c146-6836-464f-a54a-4d943262dbb1" width="60"/>|20 mts|$128|
-|Leds RGB|<img src="https://github.com/user-attachments/assets/13636813-c4a3-4e46-bddf-de5bbe9cd4fb" width="60"/>|100 pz|$100|
-|Sensor de proximidad|<img src="https://github.com/user-attachments/assets/3d139ca5-3cc2-4124-baa7-2f6fb9569786" width="60"/>|1 pz|$50|
-|Módulo de audio|<img src="https://github.com/user-attachments/assets/b769b1d2-9860-4a24-83e2-a57714e8559f" width="60"/>|1 pz|$60|
-|Tarjeta microSD|<img src="https://github.com/user-attachments/assets/fa6838db-664f-4412-8a13-85b0ed44a95d" width="60"/>|1 pz|$50|
-|Sombrero navideño|<img src="https://github.com/user-attachments/assets/c6cacac1-c5a7-4ae8-94cc-a3170176896e" width="60"/>|1 pz|$70|
-|Resistencias y cables jumper|<img src="https://github.com/user-attachments/assets/6cea1d72-0327-4066-b6c8-24d1a3a86c1e" width="60"/>|1 paq|$80|
-|Fuente de alimentación (5V 2A)|<img src="https://github.com/user-attachments/assets/1e61c741-3262-4463-8cbe-d53830735182" width="60"/>|1 pz|$75|
-|Transistor |<img src="https://github.com/user-attachments/assets/fe3a986e-e2af-4351-8e72-f9b557112de4" width="60"/>|1 pz|$20|
-|Base para montaje|<img src="https://github.com/user-attachments/assets/df490847-7d6c-49e3-8b95-65248123cf36" width="60"/>|1 pz|$70|
-
+|Modulo de audio |<img src="https://github.com/user-attachments/assets/b72fc17c-5c2f-4945-8050-657cbfcb5511" width="60"/>|20 mts|$105|
+|Leds|<img src="https://github.com/user-attachments/assets/75d2594e-f95d-4016-8b57-7bae495cff95"/>|100 pz|$87|
+|Sensor de proximidad|<img src="https://github.com/user-attachments/assets/8cdc5e8d-9e89-4ba2-92fc-3207b6ddaae1" width="60"/>|1 pz|$50|
+|Tarjeta microSD|<img src="https://github.com/user-attachments/assets/b769b1d2-9860-4a24-83e2-a57714e8559f" width="60"/>|1 pz|$60|
+|Servomotores|<img src="https://github.com/user-attachments/assets/1269bd8f-185b-435d-845e-89382301a022" width="60"/>|1 pz|$50|
+|Resistencias|<img src="https://github.com/user-attachments/assets/35025466-4ac9-4419-b1d6-4b6c5d26a612" width="60"/>|1 paq|$80|
+|Fuente de alimentación (5V 2A)|<img src="https://github.com/user-attachments/assets/7c3b3177-01a4-4b37-a79c-4d3b6e3448cb" width="60"/>|1 pz|$79|
+|Transistor |<img src="https://github.com/user-attachments/assets/ce1942e3-e228-4d66-accc-3a1c75bc76e9" width="60"/>|1 pz|$76|
 
 ## Software a utilizar
 Thonny, Arduino
