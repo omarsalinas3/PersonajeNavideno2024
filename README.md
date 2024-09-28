@@ -37,3 +37,28 @@ https://wokwi.com/projects/408945925217940481
 **Enlace al video de la simulacion en wokwi**
 
 https://drive.google.com/file/d/1UW1lxKGGj88d3bFZVIhELRgwI8Bpwl_M/view?usp=drive_link
+## Examenes de cisco
+Módulo 1
+
+<img src="https://github.com/user-attachments/assets/f0478247-b9fc-4cbc-92e6-a29e99c148a7" width="500"/>
+
+Módulo 2
+
+<img src="https://github.com/user-attachments/assets/a8f398f5-ea4a-4217-9522-954cff364b4a" width="500"/>
+
+
+Modulo 3
+
+<img src="https://github.com/user-attachments/assets/ab84aa12-e4b2-4101-85f1-668bbbffcb8b" width="500"/>
+
+Módulo 4
+
+<img src="https://github.com/user-attachments/assets/d65e99ed-4531-49d4-97cc-de9d91441d77" width="500"/>
+
+Módulo 5
+
+<img src="https://github.com/user-attachments/assets/26594172-75a8-4c1c-b223-009128fb5d04" width="500"/>
+
+Examen Final
+
+<img src="https://github.com/user-attachments/assets/508cee4c-982f-4955-bc42-72c29d9a5ecd" width="500"/>
