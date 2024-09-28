@@ -4,7 +4,7 @@ Naviclaus
 ## Creador
 Salinas Salinas Omar
 ## Explicación de funcionamiento
-El personaje tendra una pequeña bocina que reproducira pequeños fragmentos de voz de santa claus, además de que en la parte del gorro de navidad tendra un led que se iluminara, ademas de que el muñeco podra  mover las manos cada que reproduzca un audio de voz. 
+El personaje tendra una pequeña bocina que reproducira pequeños fragmentos de voz de santa claus, además de que en la parte del gorro de navidad tendra un led que se iluminara dependiendo la luminosidad, ademas de que el muñeco podra  mover las manos cada que la temperatura sea menor a 10 grados. 
 ## Materiales a utilizar
 | Material | Imagen | Cantidad | Precio |
 |-|-|-|-|
@@ -21,42 +21,19 @@ El personaje tendra una pequeña bocina que reproducira pequeños fragmentos de 
 ## Software a utilizar
 Thonny, Arduino
 ## Dibujo del personaje 
-<img src="https://github.com/user-attachments/assets/c6a1780e-960c-4f03-a1a3-705b94ffd135" width="400"/>
+<img src="https://github.com/user-attachments/assets/1928f2b2-2106-4d7a-b43f-eaf2909cd7e0" width="400"/>
 
 ## Enlaces de la simulacion de wokwi
 
-<img src="https://github.com/user-attachments/assets/8d0f23ff-eeec-41c4-8171-c21f60fcdb19" width="500"/>
+<img src="https://github.com/user-attachments/assets/e2f46716-9b53-41b2-bc3d-d808a259d6dc" width="500"/>
+<img src="https://github.com/user-attachments/assets/5c8fc3bd-bad1-4af7-901f-14ad124ccfcd" width="500"/>
 
 **Enlace de simulacion de wokwi**
 
-https://wokwi.com/projects/410014958017160193
+https://wokwi.com/projects/410115456045068289
+
+https://wokwi.com/projects/408945925217940481
 
 **Enlace al video de la simulacion en wokwi**
 
-https://drive.google.com/file/d/1wE5LtTese6NqU5fKTW9noEifaDxW-YP0/view?usp=sharing
-
-## Imagen de los examenes de cisco
-Módulo 1
-
-<img src="https://github.com/user-attachments/assets/6ebd4377-3ee3-4b4e-8687-8a9374d841d0" width="500"/>
-
-Módulo 2
-
-<img src="https://github.com/user-attachments/assets/14e50437-1bce-4d5c-b058-6a7ca576991f" width="500"/>
-
-
-Modulo 3
-
-<img src="https://github.com/user-attachments/assets/28ede76f-49c5-47c5-89ca-97200974a7a0" width="500"/>
-
-Módulo 4
-
-<img src="https://github.com/user-attachments/assets/6333f436-a881-44ea-aa47-9caaa4f48707" width="500"/>
-
-Módulo 5
-
-<img src="https://github.com/user-attachments/assets/24113461-2e87-42ff-9b6c-865c06ad0893" width="500"/>
-
-Examen Final
-
-<img src="https://github.com/user-attachments/assets/4e653832-7141-4025-8d23-6458874707b9" width="500"/>
+https://drive.google.com/file/d/1UW1lxKGGj88d3bFZVIhELRgwI8Bpwl_M/view?usp=drive_link
