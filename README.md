@@ -30,12 +30,6 @@ Thonny
 ## Dibujo del personaje
 ![Imagen de WhatsApp 2024-09-27 a las 08 07 59_b0c7d3ef](https://github.com/user-attachments/assets/b509fe30-0bac-4deb-93d2-32d9b9260347)
 
-## Enlaces de la simulación de wokwi
-**Enlace de simulacion de wokwi (Personaje navideño):** https://wokwi.com/projects/410215227928028161
-
-**Enlace al video de la simulacion en wokwi (Explicación):**
-[(Link drive)](https://drive.google.com/file/d/13kq33B8S20Uepw5AUmAIPc7jGQ9eUdB-/view?usp=drive_link)
-
 
 
 # PRACTICA FINAL
