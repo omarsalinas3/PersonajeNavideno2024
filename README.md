@@ -7,8 +7,7 @@ Practica final, instrumento de evaluación (ROBIDAD)
 ROBIDAD
 
 ## Creador
-Cristian Efraín Oropeza Yepiz
-
+Omar Salinas Salinas
 ## Explicacion del funcionamiento
 El personaje (ROBIDAD) cuando detecta movimiento a una distancia de 10 cm prende los leds que tiene por el cuerpo, ademas mueve el cuerpo media vuelta (180°), produce una melodia navideña y muestra un mensaje en el pecho diciendo "Felices Fiestas", todo esto durante 10 segundos despues de detectar moviemiento y luego se detiene y comienza nuevamente la lectura de la distancia.
 
@@ -41,9 +40,9 @@ Thonny
 
 # PRACTICA FINAL
 ## Ejercicio integral
-https://drive.google.com/drive/folders/1XWQ2vhsBNG0M-J1PbzXqW3om_PL8bapE?usp=sharing
+[https://drive.google.com/drive/folders/1XWQ2vhsBNG0M-J1PbzXqW3om_PL8bapE?usp=sharing](https://drive.google.com/drive/folders/1BVDxnhqDyf-Qus8qXcoG4OpUb6mylBHN?usp=drive_link)
 
-<h6>Coevaluacion a Juan Diego Ruiz Rivera<h6>
+<h6>Coevaluacion a Marco Antonio <h6>
 El desempeño que tuvó mi compañero Diego fue bueno, durante el examen final se desenvolvio de forma correcta, aportando en la codificacion y construccion del circuito para su funcionamiento, ademas de que aporto con ideas para mejorar las actividades a realizar.
 No hay ninguna evaluacion negativa hacia el, y que durante todo el trabajo aportó su conocimiento y habilidad para poder desarrollar el proyecto.
 
@@ -51,9 +50,7 @@ No hay ninguna evaluacion negativa hacia el, y que durante todo el trabajo aport
 
 # DOCUMENTACIÓN
 ## Ejercicios en clase
-Cristian Efraín Oropeza Yepiz
-https://drive.google.com/drive/folders/1NI95vvXpVNED0I1LzpPc4YLaQgo7U3Ym?usp=sharing
+[https://drive.google.com/drive/folders/1NI95vvXpVNED0I1LzpPc4YLaQgo7U3Ym?usp=sharing](https://drive.google.com/drive/folders/1ZG49Ua7RIKag27b9gBHj3tWNYdYoCmPc?usp=drive_link)
 
 ## Lecciones de Netacad
-Cristian Efraín Oropeza Yepiz
-https://drive.google.com/drive/folders/1IoHmzY123Pl4OndWLsHl6lPaCFD6Mb5U?usp=sharing
+[https://drive.google.com/drive/folders/1IoHmzY123Pl4OndWLsHl6lPaCFD6Mb5U?usp=sharing](https://docs.google.com/document/d/1yxpaTHlxqJ20mpysDC0YCj8TiYWcLf2daXlxoUsrEk8/edit?usp=drive_link)
