@@ -1,64 +1,59 @@
-# Personaje2024
+# Unidad-II-Principios-IOT
+Practica final, instrumento de evaluación (ROBIDAD)
+
+# INSTRUMENTO DE EVALUACIÓN
+# Personaje ROBIDAD
 ## Nombre del personaje
-Naviclaus
+ROBIDAD
+
 ## Creador
-Salinas Salinas Omar
-## Explicación de funcionamiento
-El personaje tendra una pequeña bocina que reproducira pequeños fragmentos de voz de santa claus, además de que en la parte del gorro de navidad tendra un led que se iluminara dependiendo la luminosidad, ademas de que el muñeco podra  mover las manos cada que la temperatura sea menor a 10 grados. 
-## Materiales a utilizar
-| Material | Imagen | Cantidad | Precio |
-|-|-|-|-|
-|ESP32|<img src="https://github.com/user-attachments/assets/c80c9498-3c2a-4644-95d2-f0fc53c8e53c" width="60"/>|1 pz|$120|
-|Modulo de audio |<img src="https://github.com/user-attachments/assets/b72fc17c-5c2f-4945-8050-657cbfcb5511" width="60"/>|20 mts|$105|
-|Leds|<img src="https://github.com/user-attachments/assets/75d2594e-f95d-4016-8b57-7bae495cff95" width="60"/>|100 pz|$87|
-|Sensor de proximidad|<img src="https://github.com/user-attachments/assets/8cdc5e8d-9e89-4ba2-92fc-3207b6ddaae1" width="60"/>|1 pz|$50|
-|Tarjeta microSD|<img src="https://github.com/user-attachments/assets/b769b1d2-9860-4a24-83e2-a57714e8559f" width="60"/>|1 pz|$60|
-|Servomotores|<img src="https://github.com/user-attachments/assets/1269bd8f-185b-435d-845e-89382301a022" width="60"/>|1 pz|$50|
-|Resistencias|<img src="https://github.com/user-attachments/assets/35025466-4ac9-4419-b1d6-4b6c5d26a612" width="60"/>|1 paq|$80|
-|Fuente de alimentación (5V 2A)|<img src="https://github.com/user-attachments/assets/7c3b3177-01a4-4b37-a79c-4d3b6e3448cb" width="60"/>|1 pz|$79|
-|Transistor |<img src="https://github.com/user-attachments/assets/ce1942e3-e228-4d66-accc-3a1c75bc76e9" width="60"/>|1 pz|$76|
-|Peluche |<img src="https://github.com/user-attachments/assets/13140158-41a4-4844-82aa-aad55fe46bd5" width="60"/>|1 pz|$250|
+Cristian Efraín Oropeza Yepiz
+
+## Explicacion del funcionamiento
+El personaje (ROBIDAD) cuando detecta movimiento a una distancia de 10 cm prende los leds que tiene por el cuerpo, ademas mueve el cuerpo media vuelta (180°), produce una melodia navideña y muestra un mensaje en el pecho diciendo "Felices Fiestas", todo esto durante 10 segundos despues de detectar moviemiento y luego se detiene y comienza nuevamente la lectura de la distancia.
+
+## Materiales a utlizar
+| Material         | Imagen | Cantidad | Precio  |
+|------------------|-------------------------------------------------------------------------------------------------------------|----------|---------|
+| Placa Arduino Uno | <img src="https://github.com/user-attachments/assets/39048c81-c2a8-47e7-b1f0-efc059c6aeee" width="60"/> | 1 | $80.00 |
+| Sensor Ultrasonico | <img src="https://www.330ohms.com/cdn/shop/products/photo_A_OS-03261_SensorUltrasonico_HC-SR04_01_1200x1200.png?v=1598042103" width="100"/> | 1 | $40.00 |
+| Servomotor SG90 | <img src="https://github.com/user-attachments/assets/8ae1aa9c-0251-4731-b013-a7b8b73f5ba7" width="100"/> | 2 | $40.00 |
+| LEDs RGB | <img src="https://github.com/user-attachments/assets/0ef372bf-1c11-4ae0-9dfb-b34800260e96" width="100"/> | 2 | $2.00 |
+| Pantalla OLED | <img src="https://github.com/user-attachments/assets/58cc6ea6-59d0-4d65-a39e-90c917803234" width="100"/> | 1 | $60.00 |
+| Buzzer | <img src="https://github.com/user-attachments/assets/cd8d664c-87e8-4462-ad53-9b355c68a740" width="100"/> | 1 | $10.00 |
+| Jumpers y cables | <img src="https://github.com/user-attachments/assets/a280353d-bdbf-47d8-9919-6c51b14fe28b" width="100"/> | 1 pack | $30.00 |
+| Resistencias | <img src="https://github.com/user-attachments/assets/328da7ee-7586-4beb-8869-fc11694266de" width="100"/> | 2 | $15.00 |
+| Carton | <img src="https://github.com/user-attachments/assets/3ebfd4ba-f5f6-4d3a-84a9-6060d9243c37" width="100"/> | 1 | $42.00 |
+
 ## Software a utilizar
-Thonny, Arduino
-## Dibujo del personaje 
-<img src="https://github.com/user-attachments/assets/1928f2b2-2106-4d7a-b43f-eaf2909cd7e0" width="400"/>
+Thonny
 
-## Enlaces de la simulacion de wokwi
+## Dibujo del personaje
+![Imagen de WhatsApp 2024-09-27 a las 08 07 59_b0c7d3ef](https://github.com/user-attachments/assets/b509fe30-0bac-4deb-93d2-32d9b9260347)
 
-<img src="https://github.com/user-attachments/assets/e2f46716-9b53-41b2-bc3d-d808a259d6dc" width="500"/>
-<img src="https://github.com/user-attachments/assets/5c8fc3bd-bad1-4af7-901f-14ad124ccfcd" width="500"/>
+## Enlaces de la simulación de wokwi
+**Enlace de simulacion de wokwi (Personaje navideño):** https://wokwi.com/projects/410215227928028161
 
-**Enlace de simulacion de wokwi**
-
-https://wokwi.com/projects/410115456045068289
-
-https://wokwi.com/projects/408945925217940481
-
-**Enlace al video de la simulacion en wokwi**
-
-https://drive.google.com/file/d/1UW1lxKGGj88d3bFZVIhELRgwI8Bpwl_M/view?usp=drive_link
-## Examenes de cisco
-Módulo 1
-
-<img src="https://github.com/user-attachments/assets/f0478247-b9fc-4cbc-92e6-a29e99c148a7" width="500"/>
-
-Módulo 2
-
-<img src="https://github.com/user-attachments/assets/a8f398f5-ea4a-4217-9522-954cff364b4a" width="500"/>
+**Enlace al video de la simulacion en wokwi (Explicación):**
+[(Link drive)](https://drive.google.com/file/d/13kq33B8S20Uepw5AUmAIPc7jGQ9eUdB-/view?usp=drive_link)
 
 
-Modulo 3
 
-<img src="https://github.com/user-attachments/assets/ab84aa12-e4b2-4101-85f1-668bbbffcb8b" width="500"/>
+# PRACTICA FINAL
+## Ejercicio integral
+https://drive.google.com/drive/folders/1XWQ2vhsBNG0M-J1PbzXqW3om_PL8bapE?usp=sharing
 
-Módulo 4
+<h6>Coevaluacion a Juan Diego Ruiz Rivera<h6>
+El desempeño que tuvó mi compañero Diego fue bueno, durante el examen final se desenvolvio de forma correcta, aportando en la codificacion y construccion del circuito para su funcionamiento, ademas de que aporto con ideas para mejorar las actividades a realizar.
+No hay ninguna evaluacion negativa hacia el, y que durante todo el trabajo aportó su conocimiento y habilidad para poder desarrollar el proyecto.
 
-<img src="https://github.com/user-attachments/assets/d65e99ed-4531-49d4-97cc-de9d91441d77" width="500"/>
 
-Módulo 5
 
-<img src="https://github.com/user-attachments/assets/26594172-75a8-4c1c-b223-009128fb5d04" width="500"/>
+# DOCUMENTACIÓN
+## Ejercicios en clase
+Cristian Efraín Oropeza Yepiz
+https://drive.google.com/drive/folders/1NI95vvXpVNED0I1LzpPc4YLaQgo7U3Ym?usp=sharing
 
-Examen Final
-
-<img src="https://github.com/user-attachments/assets/508cee4c-982f-4955-bc42-72c29d9a5ecd" width="500"/>
+## Lecciones de Netacad
+Cristian Efraín Oropeza Yepiz
+https://drive.google.com/drive/folders/1IoHmzY123Pl4OndWLsHl6lPaCFD6Mb5U?usp=sharing
