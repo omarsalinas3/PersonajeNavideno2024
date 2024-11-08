@@ -37,7 +37,7 @@ Thonny
 [https://drive.google.com/drive/folders/1XWQ2vhsBNG0M-J1PbzXqW3om_PL8bapE?usp=sharing](https://drive.google.com/drive/folders/1BVDxnhqDyf-Qus8qXcoG4OpUb6mylBHN?usp=drive_link)
 
 <h6>Coevaluacion a Marco Antonio Martínez Ramírez<h6>
-Mi compañero Marco tuvo un buen desempeño. En la practica final se desenvolvió bien, participando en la codificación y en la construcción del circuito para que funcionara. También dio ideas para mejorar las actividades. No tengo comentarios negativos sobre su trabajo, ya que durante todo el proyecto aportó sus habilidades para el desarrollo.
+Mi compañero Marco tuvo un buen desempeño. En la practica final se desenvolvió bien, participando en la codificación y en la construcción del circuito para que funcionara. También dio ideas para mejorar las actividades. No tengo comentarios negativos sobre su trabajo, ya que durante todo el proyecto aportó sus habilidades para el desarrollo, solo  una pequeña observación, al momento de realizar las conexiónes se llego a equivocar un par de veces, fuera de eso todo bien.
 
 
 # DOCUMENTACIÓN
