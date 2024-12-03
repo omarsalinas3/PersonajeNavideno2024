@@ -33,16 +33,23 @@ Thonny
 
 
 # PRACTICA FINAL
-## Ejercicio integral
-[https://drive.google.com/drive/folders/1XWQ2vhsBNG0M-J1PbzXqW3om_PL8bapE?usp=sharing](https://drive.google.com/drive/folders/1BVDxnhqDyf-Qus8qXcoG4OpUb6mylBHN?usp=drive_link)
+<h1>Video demostración del funcionamiento</h1>
 
-<h6>Coevaluacion a Marco Antonio Martínez Ramírez<h6>
-Mi compañero Marco tuvo un buen desempeño. En la practica final se desenvolvió bien, participando en la codificación y en la construcción del circuito para que funcionara. También dio ideas para mejorar las actividades. No tengo comentarios negativos sobre su trabajo, ya que durante todo el proyecto aportó sus habilidades para el desarrollo, solo  una pequeña observación, al momento de realizar las conexiónes se llego a equivocar un par de veces, fuera de eso todo bien.
+<h2>Fotos de la elaboración del código</h2>
+
+<h2>Código en MicroPython</h2>
+
+<h2>Flujo de Node-Red</h2>
+
+<h2>Link de video en TikTok</h2>
+
+<h6>Coevaluacion a Cristian Efraín Oropeza Yepiz<h6>
+Durante la elabolación del proyecto...
 
 
 # DOCUMENTACIÓN
 ## Ejercicios en clase
-[https://drive.google.com/drive/folders/1NI95vvXpVNED0I1LzpPc4YLaQgo7U3Ym?usp=sharing](https://drive.google.com/drive/folders/1ZG49Ua7RIKag27b9gBHj3tWNYdYoCmPc?usp=drive_link)
+
 
 ## Lecciones de Netacad
-[https://drive.google.com/drive/folders/1IoHmzY123Pl4OndWLsHl6lPaCFD6Mb5U?usp=sharing](https://docs.google.com/document/d/1yxpaTHlxqJ20mpysDC0YCj8TiYWcLf2daXlxoUsrEk8/edit?usp=drive_link)
+
