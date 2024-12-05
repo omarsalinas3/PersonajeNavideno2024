@@ -34,7 +34,7 @@ Thonny
 
 # PRACTICA FINAL
 <h1>Video demostración del funcionamiento</h1>
-
+https://drive.google.com/file/d/1lazz_zfuiwEc5ZwCN0ydBMwqEVvpTu5L/view?usp=sharing
 <h2>Fotos de la elaboración del código</h2>
 
 ![Imagen de WhatsApp 2024-12-04 a las 20 00 13_a691e4e0](https://github.com/user-attachments/assets/ea3330d4-6889-4b79-a2c8-f2ccc97a34f7)
@@ -48,7 +48,7 @@ https://docs.google.com/document/d/1OxP-MOXMWR4KfX5O1ofXI3URHGsmuSp02K--FmzGAJE/
 <h2>Flujo de Node-Red</h2>
 https://docs.google.com/document/d/1xtrVXRO6TF2eJqWh9Wd1wjGL2uVk3BRjFN8fAYZ3GCQ/edit?usp=sharing
 <h2>Link de video en TikTok</h2>
-https://vm.tiktok.com/ZMkd2Xp8U/
+[https://vm.tiktok.com/ZMkd2Xp8U/](https://vm.tiktok.com/ZMkd9FLJc/)
 <h6>Coevaluacion a Cristian Efraín Oropeza Yepiz<h6>
 Durante la elabolación del proyecto mi compañero tuvo un buen desempeño en general realizando las actividades correspondientes, pero realizare unas observaciónes de acuerdo a su rendimiento para una mejora en proximos proyectos, lo primero que note fue que algunas veces en el desarrollo del código llegaba a tener algun conflicto en cuanto a librerias, pero en general bien mientras se desarrollaba este, despues con la realización de el circuito, entre los dos teniamos algunas complicaciones al momento de hacer el circuito funcional, por ultimo hubo algun problema con sus horarios pero se resolvia en esos mismos momentos, eso seria un area de mejora para mi compañero.
 
