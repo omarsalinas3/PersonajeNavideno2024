@@ -13,16 +13,12 @@ https://drive.google.com/drive/folders/1O_VhORLl-EkqEuYkoz_RiCApS8D4UADs?usp=sha
 
 ## Ejercicios 1 y 2:
 
-<h1>PAREJA</h1>
+
 https://drive.google.com/drive/folders/1223LKWGqDJ9OyhAWGqKYZsncF8CWj-gw?usp=sharing
-<h1>Individual</h1>
-https://drive.google.com/drive/folders/1LNzr36RhvcsLAGUFyQdJDGpz5y9-Ddjv?usp=sharing
+
+
 
 ## Diagramas
-
-
-## Códigos
-
 
 
 
